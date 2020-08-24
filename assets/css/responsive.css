@@ -48,13 +48,13 @@
   }
   .default-btn.active:hover::before {
     border-top: 10px solid transparent;
-    border-left: 10px solid #fa4612;
+    border-left: 10px solid #24416b;
     border-bottom: 10px solid transparent;
     top: 10px;
   }
   .default-btn::before {
     border-top: 10px solid transparent;
-    border-left: 10px solid #fa4612;
+    border-left: 10px solid #24416b;
     border-bottom: 10px solid transparent;
     top: 10px;
   }
@@ -393,14 +393,14 @@
     display: none;
   }
   .prevoz-nav-style-four .others-option .search-wrap a {
-    color: #fa4612;
+    color: #24416b;
     position: relative;
   }
   .prevoz-nav-style-four .others-option .search-wrap a::before {
     display: none;
   }
   .prevoz-nav-style-four .others-option .search-wrap a:hover {
-    color: #fa4612;
+    color: #24416b;
   }
   .prevoz-slider-area-four .prevoz-slider-item {
     padding-top: 140px;
@@ -848,7 +848,7 @@
   }
   .top-header .header-right-content ul li i {
     font-size: 20px;
-    color: #fa4612;
+    color: #24416b;
     width: 35px;
     height: 35px;
     line-height: 35px;
@@ -875,13 +875,13 @@
   }
   .default-btn.active:hover::before {
     border-top: 10px solid transparent;
-    border-left: 10px solid #fa4612;
+    border-left: 10px solid #24416b;
     border-bottom: 10px solid transparent;
     top: 10px;
   }
   .default-btn::before {
     border-top: 10px solid transparent;
-    border-left: 10px solid #fa4612;
+    border-left: 10px solid #24416b;
     border-bottom: 10px solid transparent;
     top: 10px;
   }
@@ -1106,7 +1106,7 @@
   }
   .header-style-two::before {
     width: 150px;
-    background-color: #fa4612;
+    background-color: #24416b;
     -webkit-clip-path: polygon(0 0, 2% 1%, 100% 100%, 0% 100%);
             clip-path: polygon(0 0, 2% 1%, 100% 100%, 0% 100%);
   }
@@ -1117,7 +1117,7 @@
     right: 0;
     width: 150px;
     height: 100%;
-    background-color: #fa4612;
+    background-color: #24416b;
     -webkit-clip-path: polygon(100% 0%, 100% 0, 100% 100%, 0 100%);
             clip-path: polygon(100% 0%, 100% 0, 100% 100%, 0 100%);
   }
@@ -1263,14 +1263,14 @@
     font-size: 13px;
   }
   .prevoz-nav-style-four .others-option .search-wrap a {
-    color: #fa4612;
+    color: #24416b;
     position: relative;
   }
   .prevoz-nav-style-four .others-option .search-wrap a::before {
     display: none;
   }
   .prevoz-nav-style-four .others-option .search-wrap a:hover {
-    color: #fa4612;
+    color: #24416b;
   }
   .prevoz-slider-area-four .prevoz-slider-item {
     padding-top: 140px;
@@ -1656,19 +1656,19 @@
   }
   .mean-container a.meanmenu-reveal {
     padding: 19px 15px 0 0;
-    color: #fa4612;
+    color: #24416b;
   }
   .mean-container a.meanmenu-reveal span {
-    background-color: #fa4612;
+    background-color: #24416b;
   }
   .mobile-nav .logo {
     width: 135px;
   }
   .mobile-nav.mean-container .mean-nav ul li a:hover {
-    color: #fa4612;
+    color: #24416b;
   }
   .mobile-nav.mean-container .mean-nav ul li a.active {
-    color: #fa4612;
+    color: #24416b;
   }
 }
 /*# sourceMappingURL=responsive.css.map */
